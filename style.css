@@ -1,0 +1,31 @@
+.nav{
+   display: flex; 
+   align-items: center;
+   justify-content: space-between;
+   padding: 20px;
+   font-size: 17px;
+}
+.nav button{
+    height: 35px;
+    width: 140px;
+    background-color: rgb(180, 71, 80);
+    border: 1.5px solid rgb(141, 88, 211);
+    border-radius: 10px;
+    cursor: pointer;
+}
+.nav button{
+    color: white;
+    font-weight: bold;
+}
+.nav button :hover{
+    background: aqua;
+    border: 10px solid black;
+    transition: 0.5s;
+}
+.nav-1{
+   display: flex;
+   justify-content: space-between;
+   gap: 50px;
+   font-weight: bold;
+   color: black;
+}
