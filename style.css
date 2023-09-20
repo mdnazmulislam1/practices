@@ -29,3 +29,12 @@
    font-weight: bold;
    color: black;
 }
+.container{
+    background-image: url(./img.jpg);
+}
+.container{
+   height: 70vh;
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+}
